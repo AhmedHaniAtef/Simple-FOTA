@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stm32_hal_legacy.h": "c",
+        "stddef.h": "c",
+        "stdint.h": "c",
+        "stm32f4xx_hal_crc.h": "c",
+        "spi.h": "c",
+        "stm32f4xx_hal.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+}
